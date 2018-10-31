@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SignificantMotion</string>
+    <string name="no_sig_motion">No significant motion</string>
+    <string name="sig_motion">Significant motion detected</string>
+    <string name="sig_motion_auto_disabled">Significant motion auto disabled</string>
+    <string name="sig_motion_enabled">Significant motion enabled</string>
+    <string name="sig_motion_disabled">Significant motion disabled</string>
 </resources>
